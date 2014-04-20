@@ -13,5 +13,5 @@ Or include the stylesheet as a link element in the HTML document
 ```html
 <link rel="stylesheet" media="all" href="css-render.css" />
 ```
-Please visit the [CSS Render documentation](http://pleets.org/docs/CS20140402/quick-start)
+Please visit the [CSS Render documentation](http://pleets.org/public/docs/CS20140402/quick-start)
 for more information.
