@@ -19,8 +19,7 @@
   - Native transformations like rotate, translate, skew and scale are supported
   - Many effects such as slide, fade, shadow, and others are built-in as classes
   - Opera browser (presto) doesn't support 3D transforms (Only 2D), in this cases 
-    CSS Render get a 2D compatible animation 
-  - Style render for elements has been added (HTML module)
+    CSS Render get a 2D compatible animation
   - Namespaces for modules has been added
 
 
